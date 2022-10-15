@@ -1,1 +1,9 @@
-
+discord
+datetime
+colorama
+pystyle
+json
+threading
+time
+asyncio
+requests
